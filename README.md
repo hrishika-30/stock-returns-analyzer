@@ -27,6 +27,7 @@ This project analyzes the performance of major Indian defence sector companies u
 ## Files
 
 - `stock_analysis.ipynb` – Code notebook with all analysis and visualizations
+- `stock_analysis_clean.ipynb` – Code notebook without output
 - `README.md` – Project overview
 
 ---
